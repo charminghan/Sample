@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("첫번쨰 수정내용");
 		String name = "유병승";
 		System.out.println("이거 충돌나야해");
+		int age =19;
 	}
 
 }
